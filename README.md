@@ -10,13 +10,10 @@
   src="https://www.lambdatest.com/resources/images/news24.gif"
   alt="animated image"
 />
-- 🔭 I’m currently working on **Fixerhub** 
-- 🌱 I’m currently learning **React Native** 
-- 📫 How to reach me **liyattesfaye8@gmail.com** 
-- ⚡ Fun fact **I think am funny, no wait ,i am!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<p>- 🔭 I’m currently working on **Fixerhub** </p>
+<p>- 🌱 I’m currently learning **React Native** </p>
+<p>- 📫 How to reach me **liyattesfaye8@gmail.com** </p>
+<p>- ⚡ Fun fact **I think am funny, no wait ,i am!**</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
