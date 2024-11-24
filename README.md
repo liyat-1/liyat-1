@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/7635708d-aa1f-4e5b-8aa7-1a5c8770ac8e)]
+![MasterHead](https://github.com/user-attachments/assets/7635708d-aa1f-4e5b-8aa7-1a5c8770ac8e)
 
 <h1 align="center">Hi 👋, I'm Liyat</h1>
 <h3 align="center">
