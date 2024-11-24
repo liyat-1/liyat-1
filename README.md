@@ -11,8 +11,8 @@
   alt="animated image"
 />
 - 🔭 I’m currently working on **Fixerhub** 
-- 🌱 I’m currently learning **React
-Native** - 📫 How to reach me **liyattesfaye8@gmail.com** 
+- 🌱 I’m currently learning **React Native** 
+- 📫 How to reach me **liyattesfaye8@gmail.com** 
 - ⚡ Fun fact **I think am funny, no wait ,i am!**
 
 <h3 align="left">Connect with me:</h3>
